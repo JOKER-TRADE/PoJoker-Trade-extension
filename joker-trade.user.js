@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JOKER TRADE (Pocket Option)
 // @namespace    https://joker-trade.online/
-// @version      3.1.0
+// @version      3.1.1
 // @description  Сигнали, трекер та статистика для Pocket Option
 // @author       JOKER TRADE
 // @match        https://pocketoption.com/*
