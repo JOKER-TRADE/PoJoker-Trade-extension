@@ -13,8 +13,8 @@
 // @connect      po.joker-trade.online
 // @run-at       document-idle
 // @noframes
-// @updateURL    https://raw.githubusercontent.com/ТВІЙ_НІК/joker-trade-userscript/main/joker-trade.user.js
-// @downloadURL  https://raw.githubusercontent.com/ТВІЙ_НІК/joker-trade-userscript/main/joker-trade.user.js
+// @updateURL    https://raw.githubusercontent.com/JOKER-TRADE/PoJoker-Trade-extension/main/joker-trade.user.js
+// @downloadURL  https://raw.githubusercontent.com/JOKER-TRADE/PoJoker-Trade-extension/main/joker-trade.user.js
 // ==/UserScript==
 
 (() => {
