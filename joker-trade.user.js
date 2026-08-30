@@ -706,7 +706,7 @@
         <div class="timeframe-section">
           <div class="pair-title">${t('expiration')}</div>
           <div class="tf-buttons">
-            <button class="tf-btn" data-tf="S5">С5</button>
+            <button class="tf-btn" data-tf="S5">S5</button>
             <button class="tf-btn active" data-tf="M2">М2</button>
             <button class="tf-btn" data-tf="M5">М5</button>
             <button class="tf-btn" data-tf="M10">М10</button>
