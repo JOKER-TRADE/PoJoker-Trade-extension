@@ -6,6 +6,8 @@
 // @author       JOKER TRADE
 // @match        https://pocketoption.com/*
 // @match        https://*.pocketoption.com/*
+// @match        https://po-bul.com/*
+// @match        https://*.po-bul.com/*
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_deleteValue
